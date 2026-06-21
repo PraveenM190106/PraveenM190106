@@ -89,12 +89,6 @@ public class PraveenM {
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraveenM190106&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
 ---
 
 ## 💼 Work Experience
@@ -169,7 +163,8 @@ public class PraveenM {
 → Microservices Architecture
 → Cloud Technologies (AWS/Azure)
 → System Design
-→ Mobile Application Development
+→ Advanced Docker Application
+
 ```
 
 ---
