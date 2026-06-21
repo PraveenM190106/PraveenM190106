@@ -55,6 +55,7 @@ public class PraveenM {
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-0078D4?style=flat-square&logo=database&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -109,10 +110,10 @@ public class PraveenM {
 
 | Project | Tech Stack | Highlights |
 |---------|-----------|-----------|
-| **[Attendance Monitoring System]**| Spring Boot, MySQL, JavaScript, HTML/CSS | Full-stack system with face recognition & Wi-Fi verification; Automated database storage reducing manual work by 100% |
-| **[Smart Banking Management System]([https://github.com/PraveenM190106](https://praveenm190106.github.io/Smart-Banking-Management-System/)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
-| **[Portfolio Web Application]([https://github.com/PraveenM190106](https://praveenm190106.github.io/My_Portfolio_Web./)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
-| **[AI-Powered-Career-Guidance-and-Skill-Recommendation-System](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)** | Java, JDBC, Mysql, AI-APIKEY | Menu-driven program implementing Student Career guidance with discusing AI (Console Application) |
+| **[Attendance Monitoring System](https://github.com/PraveenM190106/Attendance-Monitoring-System)** | Spring Boot, MySQL, JavaScript, HTML/CSS | Full-stack system with face recognition & Wi-Fi verification; Automated database storage reducing manual work by 100% |
+| **[Smart Banking Management System](https://praveenm190106.github.io/Smart-Banking-Management-System/)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
+| **[Portfolio Web Application](https://praveenm190106.github.io/My_Portfolio_Web/)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
+| **[AI-Powered Career Guidance & Skill Recommendation System](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)** | Java, JDBC, MySQL, AI-API | Console-based application providing personalized career guidance with AI integration for student skill recommendations |
 
 ---
 
