@@ -102,9 +102,8 @@ public class PraveenM {
 <details open>
   <summary><b>Embedded & Core Java Training</b> | Litz Tech – Coimbatore, Tamil Nadu</summary>
   
-  > `Java` `Embedded Systems` `OOP` `Data Structures` `Best Practices`
+  > `Java`  `OOP` `Data Structures` `Best Practices`
   
-  - Completed comprehensive hands-on training in **Embedded Systems** and **Core Java** with focus on OOP concepts, collections, and exception handling
   - Developed **console-based Java applications** and embedded projects using advanced data structures
   - Mastered **hardware-software integration** principles and industry best practices for coding
   
@@ -116,10 +115,10 @@ public class PraveenM {
 
 | Project | Tech Stack | Highlights |
 |---------|-----------|-----------|
-| **[Attendance Monitoring System](https://github.com/PraveenM190106)** | Spring Boot, MySQL, JavaScript, HTML/CSS | Full-stack system with face recognition & Wi-Fi verification; Automated database storage reducing manual work by 100% |
-| **[Smart Banking Management System](https://github.com/PraveenM190106)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
-| **[Portfolio Web Application](https://github.com/PraveenM190106)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
-| **[Java DSA Practice Project](https://github.com/PraveenM190106)** | Core Java, OOP, Algorithms | Menu-driven program implementing Linked List, Stack, Queue, Tree, Heap, Graph; BFS/DFS graph traversal |
+| **[Attendance Monitoring System]**| Spring Boot, MySQL, JavaScript, HTML/CSS | Full-stack system with face recognition & Wi-Fi verification; Automated database storage reducing manual work by 100% |
+| **[Smart Banking Management System]([https://github.com/PraveenM190106](https://praveenm190106.github.io/Smart-Banking-Management-System/)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
+| **[Portfolio Web Application]([https://github.com/PraveenM190106](https://praveenm190106.github.io/My_Portfolio_Web./)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
+| **[AI-Powered-Career-Guidance-and-Skill-Recommendation-System](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)** | Java, JDBC, Mysql, AI-APIKEY | Menu-driven program implementing Student Career guidance with discusing AI (Console Application) |
 
 ---
 
@@ -141,8 +140,9 @@ public class PraveenM {
 
 ```
 ✅ Java DSA – W3 Schools
-✅ Java Problem Solving, SQL (Advanced) – HackerRank
-✅ Spring Boot Backend Development – Coursera
+✅ Java - HackerRank
+✅ Java Problem Solving, SQL (Advanced) ,JavaScript – HackerRank
+✅ Spring Boot ,Spring FrameWork – Infosys Springboard
 ✅ Python, AI and Cyber Security – Cisco Network Academy
 ✅ IoT Protocols, Digital Communication, Signal Processing – College Coursework
 ```
@@ -179,11 +179,11 @@ public class PraveenM {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenbeece098@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/PRAVEEN-M)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenm076/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PraveenM190106)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/PraveenM190106)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4C3C?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/PraveenM190106)
-[![CodeForces](https://img.shields.io/badge/CodeForces-1F1C1C?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/PraveenM190106)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/711523BEC076/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4C3C?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/chunk_bug_97)
+[![CodeForces](https://img.shields.io/badge/CodeForces-1F1C1C?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praveenbeece098)
 
 </div>
 
