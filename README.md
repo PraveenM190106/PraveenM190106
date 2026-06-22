@@ -13,11 +13,11 @@
 ```java
 public class PraveenM {
     private String name = "Praveen M";
-    private String location = "Coimbatore, Tamil Nadu";
     private String degree = "B.E. Electronics and Communication Engineering";
     private String[] techStack = {"Java", "Spring Boot", "JavaScript", "MySQL", "HTML/CSS"};
     private String[] currentlyLearning = {"Advanced DSA", "Microservices", "Cloud Technologies"};
     private String funFact = "Competitive programmer with 170+ LeetCode problems solved!";
+    private String location = "Coimbatore, Tamil Nadu";
     
     public String motto() {
         return "Code → Test → Deploy → Repeat 🚀";
@@ -27,10 +27,9 @@ public class PraveenM {
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 **Currently**: 3rd Year B.E. Student at Kalaignarkarunanidhi Institute of Technology (CGPA: 7.64/10.0)
+- 🎓 **Degree**: B.E. - ECE
 - 💼 **Experienced in**: Full-stack web development, backend systems, embedded programming
 - 🧠 **Passionate about**: Problem-solving, DSA, and building scalable applications
-- 📍 **Location**: Coimbatore, Tamil Nadu, India
 - 📧 **Email**: praveenbeece098@gmail.com
 - 📱 **Phone**: 9677463432
 
@@ -51,6 +50,7 @@ public class PraveenM {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-0078D4?style=flat-square&logo=database&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
@@ -106,7 +106,6 @@ public class PraveenM {
   
   - Completed comprehensive hands-on training in **Embedded Systems** and **Core Java** with focus on OOP concepts, collections, and exception handling
   - Developed **console-based Java applications** and embedded projects using advanced data structures
-  - Mastered **hardware-software integration** principles and industry best practices for coding
   
 </details>
 
@@ -117,9 +116,9 @@ public class PraveenM {
 | Project | Tech Stack | Highlights |
 |---------|-----------|-----------|
 | **[Attendance Monitoring System](https://github.com/PraveenM190106)** | Spring Boot, MySQL, JavaScript, HTML/CSS | Full-stack system with face recognition & Wi-Fi verification; Automated database storage reducing manual work by 100% |
-| **[Smart Banking Management System](https://github.com/PraveenM190106)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
-| **[Portfolio Web Application](https://github.com/PraveenM190106)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
-| **[Java DSA Practice Project](https://github.com/PraveenM190106)** | Core Java, OOP, Algorithms | Menu-driven program implementing Linked List, Stack, Queue, Tree, Heap, Graph; BFS/DFS graph traversal |
+| **[Smart Banking Management System](https://praveenm190106.github.io/Smart-Banking-Management-System/)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
+| **[Portfolio Web Application](https://praveenm190106.github.io/My_Portfolio_Web./)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
+| **[AI-Powered Career Guidance and Skill Recommendation System](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)** | Java,JDBC and MYSQL with AI-APIKey | Student Career Guidance management with using AI in Terminal(vscode,intelij) |
 
 ---
 
@@ -144,7 +143,7 @@ public class PraveenM {
 ✅ Java Problem Solving, SQL (Advanced) – HackerRank
 ✅ Spring Boot Backend Development – Coursera
 ✅ Python, AI and Cyber Security – Cisco Network Academy
-✅ IoT Protocols, Digital Communication, Signal Processing – College Coursework
+
 ```
 
 ---
