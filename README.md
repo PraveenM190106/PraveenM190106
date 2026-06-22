@@ -32,7 +32,7 @@ public class PraveenM {
 ```
 
 **Quick Facts:**
-- 🎓 **B.E. Electronics & Communication Engineering** 
+- 🎓 **B.E. Electronics & Communication Engineering** (2023-2027) - CGPA: 7.64/10
 - 💼 Experienced in Full-stack development, Backend systems, and Java Development
 - 🧠 Passionate about Problem-solving, DSA, and Scalable Applications
 - 📧 **Email**: praveenbeece098@gmail.com
