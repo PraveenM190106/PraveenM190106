@@ -66,17 +66,23 @@ public class PraveenM {
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PraveenM190106&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenM190106&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM190106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
+
+<br>
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenM190106&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM190106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PraveenM190106&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenM190106&theme=tokyonight" width="100%" />
+
 </div>
 
 ---
@@ -84,7 +90,9 @@ public class PraveenM {
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenM190106&theme=tokyo-night&hide_border=true" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenM190106&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
