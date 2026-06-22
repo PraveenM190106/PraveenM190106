@@ -1,14 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=16" width="100%">
-</div>
+# <div align="center">Praveen M</div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+Developer;Full-Stack+Web+Applications;Data+Structures+%26+Algorithms;Building+Scalable+Solutions" alt="Typing SVG">
-</h3>
+<div align="center">
+
+### Full-Stack Developer | Competitive Programmer | DSA Enthusiast
+
+**Java • Spring Boot • JavaScript • MySQL • Full-Stack Web Development**
+
+[Email](mailto:praveenbeece098@gmail.com) • [LinkedIn](https://www.linkedin.com/in/praveenm076/) • [GitHub](https://github.com/PraveenM190106) • [LeetCode](https://leetcode.com/u/711523BEC076/) • [CodeChef](https://www.codechef.com/users/chunk_bug_97) • [CodeForces](https://codeforces.com/profile/praveenbeece098)
+
+</div>
 
 ---
 
 ## 💻 About Me
+
+I'm a passionate **Full-Stack Developer** and **Competitive Programmer** from Coimbatore, Tamil Nadu. I specialize in building scalable web applications using Java, Spring Boot, and modern web technologies. With 170+ LeetCode problems solved, I'm dedicated to mastering Data Structures & Algorithms.
 
 ```java
 public class PraveenM {
@@ -25,11 +31,10 @@ public class PraveenM {
 }
 ```
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-- 🎓 **Degree**:  B.E. - ECE
-- 💼 **Experienced in**: Full-stack web development, backend systems and Java Development.
-- 🧠 **Passionate about**: Problem-solving, DSA, and building scalable applications
+**Quick Facts:**
+- 🎓 **B.E. Electronics & Communication Engineering** 
+- 💼 Experienced in Full-stack development, Backend systems, and Java Development
+- 🧠 Passionate about Problem-solving, DSA, and Scalable Applications
 - 📧 **Email**: praveenbeece098@gmail.com
 - 📱 **Phone**: 9677463432
 
@@ -37,103 +42,85 @@ public class PraveenM {
 
 ## 🛠️ Technical Skills
 
-<div align="center">
-
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-0078D4?style=flat-square&logo=database&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-0078D4?style=for-the-badge&logo=database&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-4CAF50?style=flat-square&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6B6B?style=flat-square&logoColor=white)
-
-</div>
-
----
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenM190106&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM190106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenM190106&theme=tokyonight" width="100%" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenM190106&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
-<details open>
-  <summary><b>Embedded & Core Java Training</b> | Litz Tech – Coimbatore, Tamil Nadu</summary>
-  
-  > `Java`  `OOP` `Data Structures` `Best Practices`
-  
-  - Developed **console-based Java applications** and embedded projects using advanced data structures
-  
-</details>
+### Embedded & Core Java Training
+**Litz Tech** – Coimbatore, Tamil Nadu
+
+- Developed **console-based Java applications** and embedded projects using advanced data structures
+- Mastered OOP concepts, Data Structures, and Java Best Practices
+- **Tech Stack**: Java, OOP, Data Structures
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Highlights |
-|---------|-----------|-----------|
-| **[Attendance Monitoring System](https://github.com/PraveenM190106/Attendance-Monitoring-System)** | Spring Boot, MySQL, JavaScript, HTML/CSS | Full-stack system with face recognition & Wi-Fi verification; Automated database storage reducing manual work by 100% |
-| **[Smart Banking Management System](https://praveenm190106.github.io/Smart-Banking-Management-System/)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
-| **[Portfolio Web Application](https://praveenm190106.github.io/My_Portfolio_Web./)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
-| **[AI-Powered Career Guidance & Skill Recommendation System](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)** | Java, JDBC, MySQL, AI-API | Console-based application providing personalized career guidance with AI integration for student skill recommendations |
+### 1. **Attendance Monitoring System**
+- **GitHub**: [View Project](https://github.com/PraveenM190106/Attendance-Monitoring-System)
+- **Tech Stack**: Spring Boot, MySQL, JavaScript, HTML/CSS
+- **Highlights**: 
+  - Full-stack system with face recognition & Wi-Fi verification
+  - Automated database storage reducing manual work by 100%
+  - RESTful APIs with Spring Boot backend
+
+### 2. **Smart Banking Management System**
+- **Website**: [View Project](https://praveenm190106.github.io/Smart-Banking-Management-System/)
+- **Tech Stack**: Java, Spring Boot, MySQL, REST APIs
+- **Highlights**:
+  - Backend banking system with authentication & authorization
+  - Fund transfers and transaction history tracking
+  - Implemented JPA/Hibernate with layered architecture
+
+### 3. **Portfolio Web Application**
+- **Website**: [View Project](https://praveenm190106.github.io/My_Portfolio_Web/)
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Highlights**:
+  - Responsive portfolio with interactive elements
+  - 100% mobile-friendly across all browsers
+  - Optimized performance and accessibility
+
+### 4. **AI-Powered Career Guidance & Skill Recommendation System**
+- **Website**: [View Project](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)
+- **Tech Stack**: Java, JDBC, MySQL, AI-API
+- **Highlights**:
+  - Console-based application with AI integration
+  - Personalized career guidance engine
+  - Automated skill recommendations for students
 
 ---
 
 ## 🎖️ Competitive Programming Achievements
 
-<div align="center">
-
-| 🏅 Platform | Max Rating | Problems Solved | Rank/Division | Global Rank |
-|:---:|:---:|:---:|:---:|:---:|
-| **LeetCode** | 1553 | 170+ | Top 36.91% | 308,756 |
-| **CodeChef** | 1221 | 133 | ⭐ (1 Star) | 81,252 |
-| **CodeForces** | 872 | 5 | Division 2 | 17,944 |
-
-</div>
+| Platform | Max Rating | Problems Solved | Achievement |
+|:---:|:---:|:---:|:---|
+| **LeetCode** | 1553 | 170+ | Top 36.91% • Global Rank: 308,756 |
+| **CodeChef** | 1221 | 133 | ⭐ (1 Star) • Global Rank: 81,252 |
+| **CodeForces** | 872 | 5 | Division 2 • Global Rank: 17,944 |
 
 ---
 
@@ -142,8 +129,8 @@ public class PraveenM {
 ```
 ✅ Java DSA – W3 Schools
 ✅ Java - HackerRank
-✅ Java Problem Solving, SQL (Advanced) ,JavaScript – HackerRank
-✅ Spring Boot ,Spring FrameWork – Infosys Springboard
+✅ Java Problem Solving, SQL (Advanced), JavaScript – HackerRank
+✅ Spring Boot, Spring Framework – Infosys Springboard
 ✅ Python, AI and Cyber Security – Cisco Network Academy
 ✅ IoT Protocols, Digital Communication, Signal Processing – College Coursework
 ```
@@ -152,14 +139,10 @@ public class PraveenM {
 
 ## 🎓 Education
 
-<div align="center">
-
 | Degree | Institution | Duration | Score |
-|:---:|:---:|:---:|:---:|
-| **B.E. Electronics & Communication Engineering** | Kalaignarkarunanidhi Institute of Technology | 2023 – 2027 | **7.64/10.0** CGPA |
-| **Higher Secondary (12th)** | Thiyagi N.G. Ramaswamy Memorial School | 2021 – 2023 | **83%** |
-
-</div>
+|:---|:---|:---:|:---:|
+| **B.E. Electronics & Communication Engineering** | Kalaignarkarunanidhi Institute of Technology | 2023–2027 | **7.64/10.0** CGPA |
+| **Higher Secondary (12th)** | Thiyagi N.G. Ramaswamy Memorial School | 2021–2023 | **83%** |
 
 ---
 
@@ -170,8 +153,7 @@ public class PraveenM {
 → Microservices Architecture
 → Cloud Technologies (AWS/Azure)
 → System Design
-→ Advanced Docker Application
-
+→ Advanced Docker Applications
 ```
 
 ---
@@ -180,21 +162,21 @@ public class PraveenM {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenbeece098@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenm076/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PraveenM190106)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/711523BEC076/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4C3C?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/chunk_bug_97)
-[![CodeForces](https://img.shields.io/badge/CodeForces-1F1C1C?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praveenbeece098)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenbeece098@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenm076/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraveenM190106)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/711523BEC076/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4C3C?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chunk_bug_97)
+[![CodeForces](https://img.shields.io/badge/CodeForces-1F1C1C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praveenbeece098)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%">
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PraveenM190106&color=blueviolet&style=flat-square" alt="Profile Views">
+**Thanks for visiting! Feel free to check out my repositories and connect with me.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=PraveenM190106&color=blueviolet&style=flat-square)
+
 </div>
