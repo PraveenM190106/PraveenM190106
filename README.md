@@ -109,7 +109,7 @@ public class PraveenM {
 |---------|-----------|-----------|
 | **[Attendance Monitoring System](https://github.com/PraveenM190106)** | Spring Boot, MySQL, JavaScript, HTML/CSS | Full-stack system with face recognition & Wi-Fi verification; Automated database storage reducing manual work by 100% |
 | **[Smart Banking Management System](https://praveenm190106.github.io/Smart-Banking-Management-System/)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
-| **[Portfolio Web Application](https://praveenm190106.github.io/My_Portfolio_Web./)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
+| **[Portfolio Web Application](https://praveenm190106.github.io/Portfolio_Webpage./)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
 | **[AI-Powered Career Guidance and Skill Recommendation System](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)** | Java,JDBC and MYSQL with AI-APIKey | Student Career Guidance management with using AI in Terminal(vscode,intelij) |
 
 ---
