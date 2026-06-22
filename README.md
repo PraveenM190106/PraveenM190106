@@ -13,11 +13,11 @@
 ```java
 public class PraveenM {
     private String name = "Praveen M";
-    private String location = "Coimbatore, Tamil Nadu";
     private String degree = "B.E. Electronics and Communication Engineering";
     private String[] techStack = {"Java", "Spring Boot", "JavaScript", "MySQL", "HTML/CSS"};
     private String[] currentlyLearning = {"Advanced DSA", "Microservices", "Cloud Technologies"};
     private String funFact = "Competitive programmer with 170+ LeetCode problems solved!";
+    private String location = "Coimbatore, Tamil Nadu";
     
     public String motto() {
         return "Code → Test → Deploy → Repeat 🚀";
@@ -27,10 +27,9 @@ public class PraveenM {
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 **Currently**: 3rd Year B.E. Student at Kalaignarkarunanidhi Institute of Technology (CGPA: 7.64/10.0)
-- 💼 **Experienced in**: Full-stack web development, backend systems, embedded programming
+- 🎓 **Degree**:  B.E. - ECE
+- 💼 **Experienced in**: Full-stack web development, backend systems and Java Development.
 - 🧠 **Passionate about**: Problem-solving, DSA, and building scalable applications
-- 📍 **Location**: Coimbatore, Tamil Nadu, India
 - 📧 **Email**: praveenbeece098@gmail.com
 - 📱 **Phone**: 9677463432
 
