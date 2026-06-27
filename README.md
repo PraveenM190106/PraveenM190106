@@ -111,7 +111,7 @@ public class PraveenM {
 | **[Smart Banking Management System](https://praveenm190106.github.io/Smart-Banking-Management-System/)** | Java, Spring Boot, MySQL, REST APIs | Backend banking system with authentication, fund transfers, transaction history; Implemented JPA/Hibernate with layered architecture |
 | **[Portfolio Web Application](https://praveenm190106.github.io/Portfolio_Webpage./)** | HTML, CSS, JavaScript | Responsive portfolio with interactive elements; 100% mobile-friendly across all browsers |
 | **[AI-Powered Career Guidance and Skill Recommendation System](https://praveenm190106.github.io/AI-Powered-Career-Guidance-and-Skill-Recommendation-System/)** | Java,JDBC and MYSQL with AI-APIKey | Student Career Guidance management with using AI in Terminal(vscode,intelij) |
-| **[JAVA_Game_Arcade](https://praveenm190106.github.io/Java_Game_Arcade/)** | Java,Java Swing,GUI graphical | Using Java and Java Swing do develope Games(intelij) |
+| **[JAVA_Game_Arcade](https://praveenm190106.github.io/Java_Game_Arcade/)** | Java,Java Swing,GUI graphical | Using Java and Java Swing to develope a Games(Tic-tac-toe, NumberGuess, Snake, Shooter, Maze, Racing) |
 
 ---
 
